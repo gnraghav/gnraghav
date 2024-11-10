@@ -1,5 +1,7 @@
 # 💫 About Me:
-Software engineer at Juniper Networks and preciously worked at Cisco systems.<br>Overall having 8 years of experience in networking domain with hands on experience on routers, switches and TCP/ip module.<br>Proficient in c, c++, python programming 
+Experienced software development professional with over 8 years in networking devices.Highly skilled in packet forwarding paths and L2/L3
+protocol management. Proficient in C, C++, and Python programming languages. Proven track record of developing scalable, secure, and
+maintainable code. Dedicated to enhancing software quality and optimizing system performance.
 
 
 ## 🌐 Socials:
